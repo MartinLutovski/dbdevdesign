@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClassCode"
+    "\\ClassCode",
+    "\\ClassCode\\workshop"
   ],
-  "SelectedNode": "\\ClassCode\\Class05StoredProcedureOutputParameter.sql",
+  "SelectedNode": "\\ClassCode\\workshop\\SQLQuery2.sql",
   "PreviewInSolutionExplorer": false
 }
