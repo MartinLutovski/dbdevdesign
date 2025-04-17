@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\ClassCode",
+    "\\ClassCode\\class07",
     "\\ClassCode\\workshop"
   ],
-  "SelectedNode": "\\ClassCode\\workshop\\SQLQuery2.sql",
+  "SelectedNode": "\\ClassCode\\class07\\CreateOrderDetails.sql",
   "PreviewInSolutionExplorer": false
 }
